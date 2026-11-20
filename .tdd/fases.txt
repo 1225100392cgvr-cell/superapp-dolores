@@ -1,0 +1,5 @@
+1|test/dominio_test.dart|lib/dominio/dinero.dart;lib/dominio/monedero.dart;lib/dominio/mensajeria.dart;lib/dominio/contexto.dart
+2|test/servicios_test.dart|lib/dominio/comercio.dart;lib/dominio/transporte.dart
+3|test/retencion_test.dart|lib/dominio/lealtad.dart;lib/dominio/analitica.dart;lib/dominio/notificaciones.dart;lib/dominio/sugerencias.dart
+4|test/vms_test.dart|lib/presentacion/vm/inicio_vm.dart;lib/presentacion/vm/monedero_vm.dart;lib/presentacion/vm/chat_vm.dart;lib/presentacion/vm/tienda_vm.dart;lib/presentacion/vm/viajes_vm.dart;lib/presentacion/vm/metricas_vm.dart
+5|*|
