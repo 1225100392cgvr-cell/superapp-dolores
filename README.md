@@ -100,6 +100,22 @@ Inicio, Monedero, Chat, Tienda, Viajes y Métricas: cada uno recibe **solo** su 
 ## App corriendo en el emulador
 
 <!-- APP_INICIO -->
+Capturas tomadas en el emulador de Android con `flutter drive` (prueba de integraci&oacute;n `integration_test/capturas_test.dart`, que recorre la app y toma una foto de cada pantalla).
+
+**La app abierta en el emulador**
+
+<img src="capturas/app/00_emulador.png" width="380">
+
+| | | |
+|:-:|:-:|:-:|
+| <img src="capturas/app/01_inicio.png" width="230"><br>Inicio | <img src="capturas/app/02_chat_con_dinero.png" width="230"><br>Chat con dinero | <img src="capturas/app/03_monedero.png" width="230"><br>Monedero |
+| <img src="capturas/app/04_negocios.png" width="230"><br>Negocios | <img src="capturas/app/05_compra_tortilleria.png" width="230"><br>Compra tortilleria | <img src="capturas/app/06_viaje_finalizado.png" width="230"><br>Viaje finalizado |
+| <img src="capturas/app/07_inicio_con_puntos.png" width="230"><br>Inicio con puntos | <img src="capturas/app/08_tablero_retencion.png" width="230"><br>Tablero retencion | <img src="capturas/app/09_horoscopo_bloqueado.png" width="230"><br>Horoscopo bloqueado |
+
+**La prueba de integraci&oacute;n ejecutada desde el cmd**
+
+![Prueba de integraci&oacute;n en el cmd](capturas/app/prueba_integracion_cmd.png)
+
 <!-- APP_FIN -->
 
 ---
